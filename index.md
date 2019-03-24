@@ -3,4 +3,4 @@ title: Home
 layout: default
 ---
 
-My content
+Web design - Data Visualization - Digital Marketing
